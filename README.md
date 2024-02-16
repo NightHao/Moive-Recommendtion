@@ -1,4 +1,4 @@
-A recommendation system which using lots of different way to do.
+A recommendation system which using lots of different way to do.\n
 Include
 Content-based
 Collaborative Filtering
